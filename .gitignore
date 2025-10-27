@@ -1,0 +1,15 @@
+# Arquivos de ambiente
+.env
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Pastas de dados e logs (opcional)
+/data/processed/
+/data/output/
+/logs/
+
+# Arquivos de sistema
+.DS_Store
+:Zone.Identifier

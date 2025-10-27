@@ -1,0 +1,27 @@
+{
+  "metadados": {
+    "timestamp": "20250923_182214",
+    "data_hora": "2025-09-23T18:36:40.190468",
+    "versao": "funcional-completa",
+    "index": 14,
+    "modo": "Batch Otimizado"
+  },
+  "dados": {
+    "nome_completo": "Maria H. de S. Goldman",
+    "resumo_academico_completo": "Fonte:Currículo Lattes",
+    "fonte": "Currículo Lattes",
+    "construcao_de_vetores_para_a_expressao_do_anticorpo_dd3_anti-dioxina_em_plantas": "o uso de peptideo sinal de proteina vegetal.",
+    "instituicao_vinculo": "Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP). Universidade de São Paulo (USP). Ribeirão Preto , SP, Brasil; Sociedade Brasileira de Genética (SBG). Ribeirão Preto , SP, Brasil; Faculdade de Odontologia de Ribeirão Preto (FORP). Universidade de São Paulo (USP). Ribeirão Preto , SP, Brasil",
+    "projetos_pesquisa": "Estudo da função da RNA helicase DEAD-box NtDDX35; A regulação transcricional do gene SCI1 e seu papel no desenvolvimento floral; Avaliando a cinética do crescimento radicular e o desenvolvimento floral em plantas transgênicas com níveis alterados de expressão de NtRH35 (NtDDX35); A importância do gene SCI1 no meristema floral, sua regulação transcricional e conservação evolutiva; IX Simpósio Brasileiro de Genética Molecular de Plantas; Comparação da expressão gênica nos pistilos de Nicotiana tabacum e Nicotiana alata; Caracterização molecular de genes expressos no pistilo de Nicotiana tabacum; Construcao de vetores para a expressao do anticorpo dd3 anti-dioxina em plantas: o uso de peptideo sinal de proteina vegetal.; A putative abs transporter gene is preferentially expressedin tobacco pistils.; Isolamento e caracterização de genes expressos no pistilo de Nicotiana tabacum",
+    "url_fapesp": "https://bv.fapesp.br/pt/pesquisador/?field=todos&q=Maria+H.+de+S.+Goldman&q2=(%2A)&sort_intermed=pesq_resp_nome",
+    "bv_numeros_auxilios_contratados": "3",
+    "bv_numeros_auxilios_concluidos": "17",
+    "bv_numeros_bolsas_concluidas": "40",
+    "bv_numeros_total_processos": "62",
+    "auxilios_pesquisa_contratados": "Centro Internacional de Pesquisa CNRS - USP, AP.CIP; Avaliando a cinética do crescimento radicular e o desenvolvimento floral em plantas transgênicas com níveis alterados de expressão de NtRH35 (NtDDX35), AP.R; A importância do gene SCI1 no meristema floral, sua regulação transcricional e conservação evolutiva, AP.TEM",
+    "auxilios_pesquisa_concluidos": "IX Simpósio Brasileiro de Genética Molecular de Plantas, AO.R; 66o Congresso Brasileiro de Genética, AO.R; Decifrando SCI1, sua expressão durante o desenvolvimento floral e os mecanismos de ação para o controle da proliferação celular, AP.R",
+    "bolsas_concluidas": "Estudo do desenvolvimento floral e da cinética do crescimento radicular em plantas transgênicas com níveis alterados de expressão de NtRH35 (NtDDX35), BP.JD; Estudo da função da RNA helicase DEAD-box NtDDX35, BP.PD; Identificação de possíveis alvos da miltefosina em Aspergillus fumigatus, BP.IC",
+    "status_processamento": "Sucesso",
+    "modo_processamento": "Batch Otimizado"
+  }
+}

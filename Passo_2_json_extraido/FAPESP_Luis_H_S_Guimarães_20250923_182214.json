@@ -1,0 +1,22 @@
+{
+  "metadados": {
+    "timestamp": "20250923_182214",
+    "data_hora": "2025-09-23T18:36:40.189216",
+    "versao": "funcional-completa",
+    "index": 12,
+    "modo": "Batch Otimizado"
+  },
+  "dados": {
+    "url_fapesp": "https://bv.fapesp.br/pt/pesquisador/?field=todos&q=Luis+H.+S.+Guimar%C3%A3es&q2=(%2A)&sort_intermed=pesq_resp_nome",
+    "bv_numeros_auxilios_contratados": "10",
+    "bv_numeros_auxilios_concluidos": "85",
+    "bv_numeros_bolsas_concluidas": "120",
+    "bv_numeros_total_processos": "254",
+    "auxilios_pesquisa_contratados": "PRH-35 Transição Energética, AP.R; Prh-36 programa de recursos humanos em petróleo e meio ambiente da universidade federal da bahia (pema), AP.R; Consolidação da pesquisa e do ensino sobre concreto com fibra de aço para um ambiente construído mais sustentável, AV.EXT",
+    "auxilios_pesquisa_concluidos": "15o Encontro das Origens da Filosofia Contemporânea, AO.R; XVIII Colóquio Internacional Spinoza: \"Natureza, trabalho e liberdade\", AO.R; 10 Simpósio Internacional de Nutrição e Saúde de Peixes, AO.R",
+    "bolsas_concluidas": "Implementação para identificação e diferenciação entre exosítios e sítios ativos de proteínas utilizando aprendizado profundo, BP.IC; Análise quantitativa de spray automotivo pela técnica de Velocimetria por Rastreamento de Partículas (PTV), BP.IC; A temática do corpo humano no pensamento cartesiano., BP.IC; Formações genéricas no filme de crime latino-americano contemporâneo: estéticas e identidades, BE.EP.DR; A noção de \"alguma verdade\" na segunda metade da Meditação Sexta., BE.EP.IC; O modelo de natureza humana na filosofia de Spinoza: perfeição e aperfeiçoamento, BE.EP.DR",
+    "status_processamento": "Sucesso",
+    "nome_completo": "Luis H. S. Guimarães",
+    "modo_processamento": "Batch Otimizado"
+  }
+}

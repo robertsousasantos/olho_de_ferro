@@ -1,0 +1,35 @@
+{
+  "metadados": {
+    "timestamp": "20250907_130258",
+    "data_hora": "2025-09-07T14:34:41.764666",
+    "versao": "funcional-completa",
+    "index": 108,
+    "modo": "Batch Otimizado",
+    "email_processado_em": "2025-09-23T17:50:11.512887",
+    "email_processado_por": "Gemini gemini-2.0-flash-lite",
+    "email_encontrado_com_sucesso": true,
+    "versao_buscador": "3.0"
+  },
+  "dados": {
+    "nome_completo": "Nathália Gonsales da Rosa Garzon",
+    "resumo_academico_completo": "Professora Doutora do Departamento de Biologia da Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP/USP) e coordenadora do Laboratório de Inovação em Produtos e Processos Biotecnológicos (BiotecPRO). Bacharel em Biotecnologia pela FCL de Assis - UNESP (2007), Mestre em Ciências (PPG Clínica Médica: Investigação Biomédica) pela FMRP/USP (2011) e Doutora em Ciências (PPG Ciências Farmacêuticas: Produtos Naturais e Sintéticos ) pela FCFRP/USP (2018). Entre 2010-2025, atuou como Técnica de Apoio à Pesquisa e Desenvolvimento no Laboratório de Tecnologia Enzimática da FCFRP/USP. Tem experiência na bioprospecção de microrganismos, no cultivo de diferentes sistemas de expressão (células de mamíferos, fungos filamentosos, bactérias e leveduras), na produção, purificação e caracterização de enzimas homólogas e recombinantes e nos estudos sobre as aplicações tecnológicas dessas enzimas. (Fonte: Currículo Lattes)",
+    "formacao_academica": "Bacharel em Biotecnologia pela FCL de Assis - UNESP (2007); Mestre em Ciências (PPG Clínica Médica: Investigação Biomédica) pela FMRP/USP (2011); Doutora em Ciências (PPG Ciências Farmacêuticas: Produtos Naturais e Sintéticos) pela FCFRP/USP (2018).",
+    "titulacao_atual": "Professora Doutora",
+    "instituicao_vinculo": "Universidade de São Paulo (USP). Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP)",
+    "laboratorios_pesquisa": "Laboratório de Inovação em Produtos e Processos Biotecnológicos (BiotecPRO)",
+    "linhas_pesquisa": "Bioprospecção de microrganismos; cultivo de diferentes sistemas de expressão (células de mamíferos, fungos filamentosos, bactérias e leveduras); produção, purificação e caracterização de enzimas homólogas e recombinantes; aplicações tecnológicas de enzimas.",
+    "palavras_chave": "Ciências da Saúde Clínica Médica Hemofilia A Imunogenicidade Medicina",
+    "historico_bolsas": "Avaliação da atividade biológica e imunogenicidade da molécula rFVIIIdBSQGMFG recombinante em camundongos hemofílicos, BP.MS",
+    "cargo_atual": "Professora Doutora",
+    "areas_especializacao": "Biotecnologia, Enzimologia",
+    "tecnicas_utilizadas": "Bioprospecção, cultivo de microrganismos, produção, purificação e caracterização de enzimas.",
+    "url_fapesp": "https://bv.fapesp.br/pt/pesquisador/78578/nathalia-gonsales-da-rosa-garzon/",
+    "pais_origem": "Brasil",
+    "bv_numeros_bolsas_concluidas": "1",
+    "bv_numeros_total_processos": "1",
+    "colaboradores_frequentes": "Aparecida Maria Fontes",
+    "status_processamento": "Sucesso",
+    "modo_processamento": "Batch Otimizado",
+    "email_contato": "nathaliagrosa@usp.br\\n✅ VALIDAÇÃO: Sim - é específico do pesquisador\\n - 21 more characters', extracted_content='**RESULTADO DA BUSCA**\\n"
+  }
+}

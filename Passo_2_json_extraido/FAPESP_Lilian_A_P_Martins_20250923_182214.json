@@ -1,0 +1,22 @@
+{
+  "metadados": {
+    "timestamp": "20250923_182214",
+    "data_hora": "2025-09-23T18:36:40.187343",
+    "versao": "funcional-completa",
+    "index": 11,
+    "modo": "Batch Otimizado"
+  },
+  "dados": {
+    "url_fapesp": "https://bv.fapesp.br/pt/pesquisador/?field=todos&q=Lilian+A.+P.+Martins&q2=(%2A)&sort_intermed=pesq_resp_nome",
+    "bv_numeros_auxilios_contratados": "1",
+    "bv_numeros_auxilios_concluidos": "21",
+    "bv_numeros_bolsas_concluidas": "20",
+    "bv_numeros_total_processos": "43",
+    "auxilios_pesquisa_contratados": "CEPOF - Centro de Pesquisa em Óptica e Fotônica, AP.CEPID",
+    "auxilios_pesquisa_concluidos": "VIII Simpósio Internacional em Educação e Filosofia: Entre o governo das diferenças e os corpos ingovernáveis: potência da vida na educação, AO.R; Encontro de História e Filosofia da Biologia 2019, AO.R; Avaliação do potencial fitorremediador de leguminosas tropicais em solos contaminados com cobre, boro e manganês, AP.R",
+    "bolsas_concluidas": "A iconografia da melancolia no século XVII: as relações entre arte e ciência em Charles Le Brun, BP.IC; Alterações em médio prazo na composição de espécies e diversidade funcional da ictiofauna em uma represa urbana, BP.IC; Os relatos de viagem e a construção do passado na História do Brasil de Robert Southey, BP.PD",
+    "status_processamento": "Sucesso",
+    "nome_completo": "Lilian A. P. Martins",
+    "modo_processamento": "Batch Otimizado"
+  }
+}
